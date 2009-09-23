@@ -1,0 +1,15 @@
+{
+	"hr" : {
+		"color" : "red"
+	},
+	
+	"font.title" : {
+		"color" : "#6000bf"
+	},
+
+	"table" : {
+		"background-color": "#FF75FF",
+		"color" : "#ffffff"
+	}
+
+}
